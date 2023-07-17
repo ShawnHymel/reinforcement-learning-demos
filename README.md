@@ -2,7 +2,7 @@
 
 A collection of Jupyter Notebook scripts used to demonstrate reinforcement learning (RL). Open each notebook (either locally or with Google Colab) and execute each of the cells. Note that if you are executing locally, you will need to install [PyTorch](https://pytorch.org/get-started/locally/).
 
-To get started with RL, please watch the following video:
+To get started with RL, please watch the [following video](https://www.youtube.com/watch?v=3av8vozEczU):
 
 [![Introduction to Reinforcement Learning YouTube video](https://img.youtube.com/vi/3av8vozEczU/0.jpg)](https://www.youtube.com/watch?v=3av8vozEczU)
 
