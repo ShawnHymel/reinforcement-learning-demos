@@ -4,7 +4,7 @@ A collection of Jupyter Notebook scripts used to demonstrate reinforcement learn
 
 To get started with RL, please watch the following video:
 
-%%%LINK TO VIDEO
+[![Introduction to Reinforcement Learning YouTube video](https://img.youtube.com/vi/3av8vozEczU/0.jpg)](https://www.youtube.com/watch?v=3av8vozEczU)
 
 The video walks through the [cartpole notebook](rl-demo-cartpole.ipynb). At the end, viewers are encouraged to modify that notebook to solve the [inverted pendulum problem](https://gymnasium.farama.org/environments/classic_control/pendulum/). I highly recommend trying this on your own before looking at my solution in the [pendulum notebook](rl-demo-pendulum.ipynb).
 
