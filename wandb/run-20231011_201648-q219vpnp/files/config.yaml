@@ -1,0 +1,63 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.10
+    cli_version: 0.15.0
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1697077008.96727
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      3:
+      - 13
+      - 23
+      4: 3.10.10
+      5: 0.15.0
+      8:
+      - 1
+      - 3
+      - 5
+learning_rate:
+  desc: null
+  value: 0.00982969542796819
+steps_per_update_pow2:
+  desc: null
+  value: 6
+batch_size_div_pow2:
+  desc: null
+  value: 3
+gamma:
+  desc: null
+  value: 0.9377488946914673
+entropy_coef:
+  desc: null
+  value: 0.05283221006393433
+sde_freq:
+  desc: null
+  value: 3
+layer_1_pow2:
+  desc: null
+  value: 7
+layer_2_pow2:
+  desc: null
+  value: 5
+use_sde:
+  desc: null
+  value: false
+n_envs:
+  desc: null
+  value: 1
